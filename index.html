@@ -1,0 +1,73 @@
+<!doctype html>
+<html class="no-js" lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/index.css">
+        <script src="js/vendor/iscroll-probe.js"></script>
+        <script src="js/vendor/doT.js"></script>
+        <script src="js/vendor/swipe.js"></script>
+        <script src="js/vendor/zepto.js"></script>
+        <script src="js/vendor/ajax.js"></script>
+        <script src="js/vendor/event.js"></script>
+
+        <script src="js/service/scroll-plugin.js"></script>
+        <script src="js/service/path.js"></script>
+        <script src="js/service/data.js"></script>
+        <script src="js/index.js"></script>
+
+        <!--   滑动banner doT模板     -->
+        <script id="swipetmpl" type="text/x-dot-template">
+            {{~it.courseArr:value:index}}
+            <div>
+                <img src="{{= value.courseImg}}">
+                <div class="right-info">
+                    <p>{{= value.courseName}}</p>
+                </div>
+            </div>
+            {{~}}
+        </script>
+        <!-- 列表内部模板 -->
+        <script id="courselisttmpl" type="text/x-dot-template">
+            {{~it:value:index}}
+            <li>
+                <img src="{{= value.courseImg}}">
+                <div class="right-info">
+                    <p>{{= value.courseName}}</p>
+                </div>
+            </li>
+            {{~}}
+        </script>
+    </head>
+    <body>
+        <div id="header">iScroll</div>
+
+        <div id="wrapper">
+            <div id="scroller">
+                <div class="pull-top">
+
+                </div>
+
+                <div id='mySwipe' style='max-width:500px;margin:0 auto' class='swipe'>
+                    <div class='swipe-wrap'>
+                        <!--   滑动banner doT模板     -->
+                    </div>
+                </div>
+                <ul id="index-courselist">
+                    <!-- 列表内部模板 -->
+                </ul>
+                <div class="pull-bottom">
+
+                </div>
+            </div>
+        </div>
+
+        <!--<div id="footer"></div>-->
+    </body>
+</html>

@@ -1,0 +1,197 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    -ms-touch-action: none;
+}
+
+body,ul,li {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-size: 12px;
+    font-family: ubuntu, helvetica, arial;
+    overflow: hidden; /* this is important to prevent the whole page to bounce */
+}
+
+#header {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    background: #CD235C;
+    padding: 0;
+    color: #eee;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#footer {
+    position: absolute;
+    z-index: 2;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 48px;
+    background: #444;
+    padding: 0;
+    border-top: 1px solid #444;
+}
+
+#wrapper {
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    background: #ccc;
+    overflow: hidden;
+}
+
+#scroller {
+    position: absolute;
+    z-index: 1;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    width: 100%;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+#scroller ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    text-align: left;
+}
+
+#scroller li {
+    padding: 0 10px;
+    height: 80px;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #fff;
+    background-color: #fafafa;
+    font-size: 14px;
+    overflow: hidden;
+}
+
+#index-courselist li img{
+    width:100px;
+    float:left;
+}
+#index-courselist li .right-info{
+    float: left;
+    padding: 0 10px;
+}
+
+/**************下拉刷新****************/
+.pull-top{
+    height: 40px;
+    line-height: 40px;
+    width: 40%;
+    margin: 0 auto;
+    display:none;
+}
+.pull-top .arrow-down{
+    float:left;
+    background: url('../img/arrow-down.png') no-repeat center center;
+    background-size: 100% auto;
+    display: block;
+    width: 25px;
+    height: 100%;
+    transition: transform 0.5s ease-in-out 0s;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0s;
+}
+.pull-top .arrow-down.rotate-top{
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+}
+.pull-top .pullup-text{
+    /*display: block;*/
+}
+
+.pull-bottom{
+    height:40px;
+    line-height: 40px;
+    width: 40%;
+    margin: 0 auto;
+    display:none;
+}
+.pull-bottom .pulldown-text{
+    /*display: block;*/
+}
+@keyframes loadingRotate{
+    from{
+        transform:rotate(0deg);
+    }
+    to{
+        transform:rotate(360deg);
+    }
+}
+.arrow-loading{
+    float: left;
+    background: url('../img/load-c.png') no-repeat center center;
+    background-size: 100% auto;
+    display: block;
+    width: 25px;
+    height: 100%;
+    animation: loadingRotate 1s linear 0s infinite;
+}
+
+
+/*********** swipe *****************/
+.swipe {
+    overflow: hidden;
+    visibility: hidden;
+    position: relative;
+}
+.swipe-wrap {
+    overflow: hidden;
+    position: relative;
+    min-height:160px;
+}
+.swipe-wrap > div {
+    float:left;
+    width:100%;
+    position: relative;
+}
+.swipe-wrap > div img{
+    display:block;
+    width:100%;
+    height:160px;
+}
+.swipe-wrap > div p{
+    position: absolute;
+    bottom: 0;
+    background: rgba(100,100,100,0.5);
+    margin: 0;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    text-indent: 20px;
+}

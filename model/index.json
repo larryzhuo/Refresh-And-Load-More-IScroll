@@ -1,0 +1,568 @@
+{
+             "body": {
+             "sections": [
+             {
+             "itemArrayList": [
+             {
+             "elementHasRole": "1",
+             "elementId": "Y100000000",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/20151127/4b074ebe664b44fcb42c877b8709b15f/6c885503956c4b4988e32b395a3e6284.jpg",
+             "elementIsash": "0",
+             "elementLink": "http://www.zhi-niao.com/zhiniao_test/static/investigate/index.html?pageId=Y100000000",
+             "elementTitle": "亚联测试问卷保存",
+             "elementType": "23"
+             },
+             {
+             "elementArgs": "0",
+             "elementHasRole": "1",
+             "elementId": "BirdNest001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150916/44c3170a43244cd19cf621f0a34103df/d7eaa83baaf3411ebc88fdd4267c7fab.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "鸟窝",
+             "elementSubtitle": "鸟窝课程",
+             "elementTitle": "鸟窝课程",
+             "elementType": "4"
+             },
+             {
+             "elementArgs": "18",
+             "elementHasRole": "1",
+             "elementId": "CateHome2_YLSY001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150817/fe02a48d5e5443deaae768fcda2a0a87/a0fccc7fff4f4d558acb81861c0426c6.jpg",
+             "elementIsash": "0",
+             "elementSubtitle": "发现分类首页",
+             "elementTitle": "发现分类首页",
+             "elementType": "4"
+             },
+             {
+             "elementArgs": "18",
+             "elementHasRole": "1",
+             "elementId": "CateHome",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150817/f781046b0fc74a4eb68d72dda8a1943b/33e109eb312545b8a9c19c663b1b9064.jpg",
+             "elementIsash": "0",
+             "elementSubtitle": "知鸟分类首页",
+             "elementTitle": "知鸟分类首页",
+             "elementType": "4"
+             }
+             ],
+             "itemArraySize": "4",
+             "itemColumn": "1",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "BR00000001",
+             "itemSize": "640,320",
+             "itemSortno": "100000000",
+             "itemTitle": "头条管理",
+             "itemType": "banner"
+             },
+             {
+             "itemArrayList": [
+             {
+             "elementArgs": "11",
+             "elementContainerId": "0896DD0133C2422B849D2F1FAB7CDD4A",
+             "elementHasRole": "1",
+             "elementId": "Yanghuihui02",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/20150922/aad3fad3fa294a898fe87cb0aafd0285/7531dc872bf74601ae5575314ea85cb6.png",
+             "elementIsash": "0",
+             "elementRealtitle": "首页个人制作",
+             "elementSubtitle": "首页个人制作",
+             "elementTitle": "首页个人制作",
+             "elementType": "4"
+             },
+             {
+             "elementArgs": "11",
+             "elementContainerId": "B7E860EB70F74575A7B6E651515B2755",
+             "elementHasRole": "1",
+             "elementId": "Yanghuihui01_YLSY001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/20150922/f1f1c48941f645539b93d4daf66a84a3/4c874092215148bbbc872928d121ba92.png",
+             "elementIsash": "0",
+             "elementRealtitle": "发现页个人制作",
+             "elementSubtitle": "发现页个人制作",
+             "elementTitle": "发现页个人制作",
+             "elementType": "4"
+             },
+             {
+             "elementArgs": "12",
+             "elementContainerId": "D5093A3B47B54BEDBCC2A2077AB9DDFA",
+             "elementHasRole": "1",
+             "elementId": "Specialcourse001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/20150909/8087e33d5a0d45d1ba0d7a7cf1d8ad1a/9a4ae59c1fbe44ffa2a45a3224581453.png",
+             "elementIsash": "0",
+             "elementRealtitle": "课程专题列表",
+             "elementSubtitle": "课程专题列表",
+             "elementTitle": "课程专题",
+             "elementType": "4"
+             },
+             {
+             "elementArgs": "9",
+             "elementContainerId": "8E1CBF16C4A744D5A071D836CCCFE2F2",
+             "elementHasRole": "1",
+             "elementId": "TopicPage001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/20150911/d23432baae424cc2a71e91b1a61113c9/5f46f6c711004c8fbbdf4c0ecaf6f955.png",
+             "elementIsash": "0",
+             "elementSubtitle": "讨论圈首页 ",
+             "elementTitle": "讨论圈",
+             "elementType": "4"
+             }
+             ],
+             "itemArraySize": "4",
+             "itemColumn": "5",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "CH00000001",
+             "itemSortno": "200000000",
+             "itemTitle": "精选管理",
+             "itemType": "choice"
+             },
+             {
+             "itemArrayList": [
+             {
+             "elementArgs": "29691",
+             "elementHasRole": "1",
+             "elementId": "F8F4A8414AF442128300D84B464D7263",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150918/403d5c91afe842e190aaf9210fcf8bd3/a1bc411a6f9c46e5a76112a6296f7d4b.png",
+             "elementIsash": "0",
+             "elementRealtitle": "公司开发",
+             "elementSubtitle": "公司开发",
+             "elementTitle": "公司开发",
+             "elementType": "17"
+             },
+             {
+             "elementArgs": "264",
+             "elementHasRole": "1",
+             "elementId": "F73378810338402B8C7CBF87E3B9F292",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150922/2949e5c6e8ea4730b4b100d7e788ef6b/e1a99b380e0447cb8bd902672f6b2a1a.png",
+             "elementIsash": "0",
+             "elementRealtitle": "个人开发",
+             "elementSubtitle": "个人开发",
+             "elementTitle": "个人开发",
+             "elementType": "17"
+             },
+             {
+             "elementArgs": "155",
+             "elementHasRole": "1",
+             "elementId": "D912E37B51E04BF8B172D5BC5CB3F3F0",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150922/7bbdc2a686344ec2b349645e364b9078/79e453f7cfbe4b16b3bb8dfd868b9dc5.png",
+             "elementIsash": "0",
+             "elementRealtitle": "平安科技",
+             "elementSubtitle": "平安科技",
+             "elementTitle": "平安科技",
+             "elementType": "17"
+             },
+             {
+             "elementArgs": "7",
+             "elementHasRole": "1",
+             "elementId": "A59EFEDE8D4847F1990FDA15273FD51B",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150922/59a7ad1f4e824db389afa474227f45a4/c62b84ec764d49cb9cc48dfecc29be79.png",
+             "elementIsash": "1",
+             "elementRealtitle": "亚联课程",
+             "elementSubtitle": "亚联课程",
+             "elementTitle": "亚联课程",
+             "elementType": "17"
+             }
+             ],
+             "itemArraySize": "4",
+             "itemColumn": "4",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "23411D557B294193B927D71BE166FF99",
+             "itemSortno": "300000001",
+             "itemTitle": "YL研究专区",
+             "itemType": "subagency"
+             },
+             {
+             "itemArrayList": [
+             {
+             "elementArgs": "0",
+             "elementHasRole": "1",
+             "elementId": "5EE7C01F1D3B424F9296ACE138F64EF8",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150918/aa07e9e7ded541fc80f1c74a596c9df0/5547e05e095f4a2299dcd561db3697ac.png",
+             "elementIsash": "0",
+             "elementRealtitle": "YL分类1",
+             "elementSubtitle": "YL分类1",
+             "elementTitle": "YL分类1",
+             "elementType": "11"
+             },
+             {
+             "elementArgs": "0",
+             "elementHasRole": "1",
+             "elementId": "51A4C227C6FC4D39BA12C50857E92FB6",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150922/29c7b75c9ee049dba046839bd964781c/c2cd9d0f0a004dfc8aed66888be18f6d.png",
+             "elementIsash": "0",
+             "elementRealtitle": "YL分类2",
+             "elementSubtitle": "YL分类2",
+             "elementTitle": "YL分类2",
+             "elementType": "11"
+             },
+             {
+             "elementArgs": "0",
+             "elementHasRole": "1",
+             "elementId": "7F46CA65194A4FAEB1D4827CDA9ACA6C",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150922/838e311af9194a90a4a648b7f8a1bdaf/520688cadd7340a4a37d1786e66256c7.png",
+             "elementIsash": "0",
+             "elementRealtitle": "YL分类3",
+             "elementSubtitle": "YL分类3",
+             "elementTitle": "YL分类3",
+             "elementType": "11"
+             },
+             {
+             "elementArgs": "0",
+             "elementHasRole": "1",
+             "elementId": "B5A144DFA7DE4C75922B92433F696ABA",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150922/ccdcd346736048fca48f880f8d124a3a/71e146e55108400bba528079fbfd2e5b.png",
+             "elementIsash": "0",
+             "elementRealtitle": "YL分类4",
+             "elementSubtitle": "YL分类4",
+             "elementTitle": "YL分类4",
+             "elementType": "11"
+             }
+             ],
+             "itemArraySize": "4",
+             "itemColumn": "4",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "YLSY001",
+             "itemSortno": "400000000",
+             "itemTitle": "分类模块管理",
+             "itemType": "module"
+             },
+             {
+             "itemArgs": "0",
+             "itemArrayList": [
+             {
+             "elementHasRole": "1",
+             "elementId": "BirdNest001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/leftImage/20150814/c86eaf66b7ad4da989ae9748f04d3e76/58162c1e41c742f59946fcab9c1168b0.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "鸟窝课程",
+             "elementSubtitle": "鸟窝课程",
+             "elementTitle": "鸟窝课程",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "C2DBB6460A734511A4CEC0E3A115CFAC",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/cwtools/courseware/2015-08-26/719B2091D493454E86B253CDAC237978/resource/left_img/y514405703471573200.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "亚联二级页面",
+             "elementSubtitle": "亚联二级页面",
+             "elementTitle": "亚联二级页面",
+             "elementType": "3"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "8D56F6600A68438F9B7D858C60A320B0",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20151117/68ddcb822f5b4540becc25b4ef3f1a37/afa3cd275b514f82983476cccdb151b9.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "亚联test20150922",
+             "elementTitle": "亚联test20150922",
+             "elementType": "12"
+             },
+             {
+             "elementCommentNum": "0",
+             "elementHasRole": "1",
+             "elementId": "N002487",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/image/cwtools/courseware/2015-10-20/75E074033C344BA2B4505B168C78F147/resource/left_img/brief.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "测试课程标签",
+             "elementSubtitle": "测试课程标签",
+             "elementTitle": "测试课程标签",
+             "elementType": "0",
+             "elementViewNum": "21"
+             },
+             {
+             "elementCommentNum": "0",
+             "elementHasRole": "0",
+             "elementId": "N001997",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/leftImage/20150812/8f614b889b204ee8983123a5797a950a/0342849f50584add95f7bf948c563668.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "亚联课程0812A",
+             "elementSubtitle": "亚联课程0812A",
+             "elementTitle": "亚联课程0812A",
+             "elementType": "0",
+             "elementViewNum": "112"
+             }
+             ],
+             "itemArraySize": "5",
+             "itemColumn": "1",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "2EB544D07B29463EAE7BDF6C524FDA19",
+             "itemSortno": "500000000",
+             "itemTitle": "test 啊",
+             "itemType": "column"
+             },
+             {
+             "itemArgs": "1",
+             "itemArrayList": [
+             {
+             "elementHasRole": "1",
+             "elementId": "Ranklist01",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/c5842216876447a8a1e8d4d4396c5a8a/59400bb416cd4875877b2ea1bc40353d.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "首页课程排行榜",
+             "elementSubtitle": "首页课程排行榜(推荐)首页课程排行榜(推荐)",
+             "elementTitle": "首页课程排行榜(推荐)",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "Ranklist002",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/749b64b9eeba4565830a01d8b366be2d/9e350b35285e42ea88cf84c2ef6e02d2.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "排行榜-商品",
+             "elementSubtitle": "排行榜-商品（推荐）排行榜-商品（推荐）",
+             "elementTitle": "排行榜-商品（推荐）",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "Ranklist001_YLSY001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150917/dae45b25901e4a8f9d1dab6eef0ede9f/c75339fd29484d63ad683f018ef26cbd.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "排行榜-话题",
+             "elementTitle": "排行榜-话题（推荐）",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "casecourseRanklist001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150917/7b97bf219e8f400ea8f56de0f68f109b/3416a3f4224144339db76029427e8a61.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "案例中心课程排行榜",
+             "elementSubtitle": "案例中心课程排行榜（推荐）",
+             "elementTitle": "案例中心课程排行榜（推荐）",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "Ranklist03",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150917/4fa41634a6414357b99518c8db3a0b50/4ef543c777344a4e89a7f1b6e38de9ab.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "公司制作课程排行榜",
+             "elementSubtitle": "公司制作课程排行榜（推荐公司制作课程排行榜（推荐",
+             "elementTitle": "公司制作课程排行榜（推荐）",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "Ranklist04_YLSY001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150917/5176d6c3f4744dc5b30a905e7f41b922/432ac9f59ce04fe7af21170b72f08c75.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "个人制作课程排行榜",
+             "elementSubtitle": "个人制作课程排行榜（推荐）个人制作课程排行榜（推荐）",
+             "elementTitle": "个人制作课程排行榜（推荐）",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "Ranklist02",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150917/8329d01ea7a941b884d92f8cf6ea6282/d9ac8e92cc444b75ac97d10af950ce56.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "公开课课程排行榜",
+             "elementSubtitle": "公开课课程排行榜（推荐）公开课课程排行榜（推荐）",
+             "elementTitle": "公开课课程排行榜（推荐）",
+             "elementType": "4"
+             }
+             ],
+             "itemArraySize": "7",
+             "itemColumn": "1",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "1D7DB7E3C6B909CDE054000B5DE0B7FC",
+             "itemSortno": "500000001",
+             "itemTitle": "横排1个",
+             "itemType": "column"
+             },
+             {
+             "itemArgs": "1",
+             "itemArrayList": [
+             {
+             "elementCommentNum": "26",
+             "elementHasRole": "0",
+             "elementId": "008306",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/da5a6b44483b44f18e423346251d06fb/cbef5e10000544c2a1f35ddf5121d761.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "T[银行]十年专注铸成功-4",
+             "elementSubtitle": "T[银行]十年专注铸成功-4",
+             "elementTitle": "T[银行]十年专注铸成功-4",
+             "elementType": "0",
+             "elementViewNum": "349"
+             },
+             {
+             "elementCommentNum": "19",
+             "elementHasRole": "1",
+             "elementId": "N001772",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/7d35b4f1a2234ea3a0682220dfd14650/2314a94d167a4ca8809a0140ca36ab64.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "多课件测试",
+             "elementSubtitle": "多课件测试多课件测试多课件测试",
+             "elementTitle": "多课件测试",
+             "elementType": "0",
+             "elementViewNum": "7777777861"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "FF839B38A66B4BFDA5BB60CDF36E4675",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/ee70afa58d5c47439e59dab8a3eb350b/f1d7ba55f2be4bcb9addd497b3a7706f.jpg",
+             "elementIsash": "0",
+             "elementLink": "http://test-mlearning.pingan.com.cn:45080/learn/app/detailInfo.do?id=FF839B38A66B4BFDA5BB60CDF36E4675&umId=LUYIN001",
+             "elementRealtitle": "亚联视频资讯0813",
+             "elementSubtitle": "亚联视频资讯0813亚联视频资讯0813",
+             "elementTitle": "亚联视频资讯0813",
+             "elementType": "1",
+             "elementViewNum": "7777777802"
+             },
+             {
+             "elementCommentNum": "10",
+             "elementHasRole": "0",
+             "elementId": "008719",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/aed9987cf17c4d4b9752bad17295041e/9d38794e033d4ffc8efe1fc696a90247.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "平安发展史（一）",
+             "elementSubtitle": "平安发展史（一）",
+             "elementTitle": "平安发展史（一）",
+             "elementType": "0",
+             "elementViewNum": "794"
+             }
+             ],
+             "itemArraySize": "4",
+             "itemColumn": "2",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "1D7DB7E3C6BB09CDE054000B5DE0B7FC",
+             "itemSortno": "500000002",
+             "itemTitle": "横排2个",
+             "itemType": "column"
+             },
+             {
+             "itemArgs": "1",
+             "itemArrayList": [
+             {
+             "elementCommentNum": "0",
+             "elementHasRole": "1",
+             "elementId": "N002131",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/leftImage/20150826/0fa34787ccf54448884e7c4e83405c2e/c4af79209d514ddd93beeaa9fd4501a2.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "亚联课程0826A",
+             "elementSubtitle": "亚联课程0826A",
+             "elementTitle": "亚联课程0826A",
+             "elementType": "0",
+             "elementViewNum": "109"
+             },
+             {
+             "elementCommentNum": "0",
+             "elementHasRole": "0",
+             "elementId": "8715F8833FDF4282B6AEF23E26FF5BD6",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/leftImage/20150827/e6b103a14c284e3ca48a53031c641f6f/dca26675bb2345168a3ed435c2e2e89b.jpg",
+             "elementIsash": "0",
+             "elementSubtitle": "2015年8月27日-集团频道",
+             "elementTitle": "2015年8月27日-集团频道",
+             "elementType": "0",
+             "elementViewNum": "0"
+             },
+             {
+             "elementCommentNum": "3",
+             "elementHasRole": "1",
+             "elementId": "N002133",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/leftImage/20150827/e6b103a14c284e3ca48a53031c641f6f/dca26675bb2345168a3ed435c2e2e89b.jpg",
+             "elementIsash": "0",
+             "elementRealtitle": "2015年8月27日-集团频道",
+             "elementSubtitle": "2015年8月27日-集团频道",
+             "elementTitle": "2015年8月27日-集团频道",
+             "elementType": "0",
+             "elementViewNum": "153"
+             }
+             ],
+             "itemArraySize": "3",
+             "itemColumn": "3",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "1E414D6593B72FBCE054000B5DE0B7FC",
+             "itemSortno": "500000003",
+             "itemTitle": "横排3个",
+             "itemType": "column"
+             },
+             {
+             "itemArgs": "2",
+             "itemArrayList": [
+             {
+             "elementCommentNum": "30",
+             "elementHasRole": "1",
+             "elementId": "N001392",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/de7a50db991e4a08a103740f9d69689f/26f2eb3e25644d0099408f98180c4f64.png",
+             "elementIsash": "0",
+             "elementRealtitle": "杯子",
+             "elementSubtitle": "课程-杯子推荐语",
+             "elementTitle": "课程-杯子（推荐）",
+             "elementType": "0",
+             "elementViewNum": "125338053"
+             },
+             {
+             "elementCommentNum": "0",
+             "elementHasRole": "1",
+             "elementId": "5E5B9093C1A9418D9D0069D4AEEBA578",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/059b7276be0c46a6bacb897f56cd5b08/f253dbb3b7364611a6ad20e16b65a3b1.png",
+             "elementIsash": "0",
+             "elementRealtitle": "话题新增",
+             "elementSubtitle": "话题-话题新增推荐语",
+             "elementTitle": "话题-话题新增（推荐）",
+             "elementType": "2",
+             "elementViewNum": "0"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "TopicPage001",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/f629a0db07454aeb8248a36ff9686f85/97bcd217da0044ec9189c58e0468cc3f.png",
+             "elementIsash": "0",
+             "elementRealtitle": "讨论圈首页 ",
+             "elementSubtitle": "特定页面-讨论圈首页 ",
+             "elementTitle": "特定页面-讨论圈首页 ",
+             "elementType": "4"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "3F871CA978B94532981EC5858DDD8426",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/33b10d1cfe5146ddb26a98f62c25960b/d7f7c42ad8b44cdaa58ab1a1467040a8.png",
+             "elementIsash": "0",
+             "elementRealtitle": "亚联专题测试",
+             "elementSubtitle": "专题-亚联课程专题推荐那语推荐语啊推荐语",
+             "elementTitle": "亚联专题测试",
+             "elementType": "12"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "C2DBB6460A734511A4CEC0E3A115CFAC",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/b3128eb23b06469fb09f67da8e2e8b43/a255b5f2624a453b939d40ef557120bb.png",
+             "elementIsash": "0",
+             "elementRealtitle": "亚联二级页面",
+             "elementSubtitle": "二级页面-亚联二级页面推荐语推荐语推荐语啊推荐语推荐语推荐语",
+             "elementTitle": "二级页面-亚联二级页面",
+             "elementType": "3"
+             },
+             {
+             "elementHasRole": "1",
+             "elementId": "8B608964435B40B7B31AF05E4FF0C555",
+             "elementImage": "http://test-mlearning.pingan.com.cn:45080/learn/app/resource/image/20150909/43c72b92a2ea4fcfb1094b4fda068f9e/3ed4987b0f894af78d2dfb4c3f417f65.png",
+             "elementIsash": "0",
+             "elementLink": "http://test-mlearning.pingan.com.cn:45080/learn/app/detailInfo.do?id=8B608964435B40B7B31AF05E4FF0C555&umId=LUYIN001",
+             "elementRealtitle": "亚联资讯1",
+             "elementSubtitle": "资讯-亚联资讯1推荐语",
+             "elementTitle": "资讯-亚联资讯1（推荐）",
+             "elementType": "1",
+             "elementViewNum": "49"
+             }
+             ],
+             "itemArraySize": "6",
+             "itemColumn": "3",
+             "itemFunctionList": [ ],
+             "itemHasmore": "0",
+             "itemId": "1F48F4FA5BC86E74E054000B5DE0B7FC",
+             "itemSortno": "500000005",
+             "itemTitle": "混合版3个",
+             "itemType": "column"
+             }
+             ]
+             },
+             "code": "0",
+             "message": "操作成功！"
+}
