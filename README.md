@@ -26,6 +26,7 @@ you can use
 
 6.myScroll.closeRefresh()
 
+to control the refresh and load more effect
 
 ![](/img/top1.png)
 
@@ -36,4 +37,4 @@ you can use
 ![](/img/bottom1.png)
 
 
-to control the refresh and load more effect 
+ 
