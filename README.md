@@ -1,4 +1,4 @@
-# RefreshAndLoadMoreIScroll
+# Refresh And Load More IScroll
 
 I notice that iscroll.js has not refresh and load more effect. so I encapsulation it and give a example
 
